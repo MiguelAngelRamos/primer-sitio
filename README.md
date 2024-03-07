@@ -11,3 +11,21 @@
 ```sh
   git status
 ```
+
+3. Para pasar al escenario
+
+```sh
+ git add .
+```
+
+4. Sacamos una fotografia
+
+```sh
+ git commit -m "un mensaje significativo"
+```
+
+5. Para ver el historial de commit 
+
+```sh
+  git log
+```
